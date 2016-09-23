@@ -3,7 +3,7 @@
 
 Name: Johnny Po
 
-ONID ID: 932530232
+ONID ID: poj@oregonstate.edu
 
 Link to my CS 290 page: http://people.oregonstate.edu/~poj/
 
